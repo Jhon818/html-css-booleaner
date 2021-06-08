@@ -38,8 +38,8 @@ header > .head{
     margin-top: 3%;
 }
 
-div ul{
-    margin-left: px;
+div li{
+    text-align:left;
 }
 .evidenziato1{
     background-color: yellow;
@@ -50,11 +50,15 @@ div ul{
  .tb{
      background-color: cyan);
  }
-  footer > span{
+  section > p{
       font-size: 20px;
       color: grey;
+      margin-bottom: 10px;
       
   }
   footer{
       margin-top: 2%;
   }
+   footer img{
+      margin-bottom: 1%;
+   }
