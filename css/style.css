@@ -38,7 +38,7 @@ header > .head{
     margin-top: 3%;
 }
 .corpo2{
-    margin-left:0px;
+    margin: 0;
 }
 
 div li{
@@ -64,5 +64,10 @@ div li{
    footer img{
       margin-bottom: 1%;
    }
+   .tb{
+       width: 25%;
+   }
 
-  
+  .tbl{
+    background-color: rgba(60, 255, 255, 0.5);
+  }
