@@ -18,7 +18,7 @@ header > .head{
     font-size: 15px;
 }
  .evidenziato{
-     color:blue;
+     color: #6affff;
  }
  #container{
      width: 20%;
@@ -32,5 +32,29 @@ header > .head{
 }
 
 .corpo{
-    
+    font-size: 10px;
 }
+.corpo1{
+    margin-top: 3%;
+}
+
+div ul{
+    margin-left: px;
+}
+.evidenziato1{
+    background-color: yellow;
+}
+ thead{
+     background-color: cyan;
+ }
+ .tb{
+     background-color: cyan);
+ }
+  footer > span{
+      font-size: 20px;
+      color: grey;
+      
+  }
+  footer{
+      margin-top: 2%;
+  }
