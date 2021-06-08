@@ -37,6 +37,9 @@ header > .head{
 .corpo1{
     margin-top: 3%;
 }
+.corpo2{
+    margin-left:0px;
+}
 
 div li{
     text-align:left;
@@ -46,11 +49,10 @@ div li{
 }
  thead{
      background-color: cyan;
+     text-align: left;
  }
- .tb{
-     background-color: cyan);
- }
-  section > p{
+ 
+  div > p{
       font-size: 20px;
       color: grey;
       margin-bottom: 10px;
@@ -62,3 +64,5 @@ div li{
    footer img{
       margin-bottom: 1%;
    }
+
+  
